@@ -1,5 +1,5 @@
 ## Data visualization framework
-Development of a data visualization framework as part of the practical application of the knowledge acquired in the course of no-traditional database, Master (first year) Computer Science at University of Caen Normandy.
+Development of a data visualization framework as part of the practical application of the knowledge acquired in the course of no-traditional database, MSc of Computer Science at University of Caen Normandy.
 
 ## Technologies used
 1) Docker
