@@ -20,9 +20,9 @@ localhost:8080
 ## Access Mongo Express
 localhost:8081
 
-##Results
+## Results
 
-##Conclusion
+## Conclusion
 In short, this project allowed us to approach in depth the different notions learned in class and to put them into practice in an application project. It also allowed us to understand how Docker works and how applications can be deployed much more easily while avoiding a lot of conflicts related to compatibility problems at the system level.
 
 ##Thanks :)
