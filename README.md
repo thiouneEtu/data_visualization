@@ -1,21 +1,28 @@
-## Framework de visualisation de données
-Développement d'un framework de visualisation de données dans le cadre de la mise en pratique des connaissances acquises dans le cours de base de données non traditionnelles, Master 1 Informatique Université Caen Normandie.
+## Data visualization framework
+Development of a data visualization framework as part of the practical application of the knowledge acquired in the course of no-traditional database, Master (first year) Computer Science at University of Caen Normandy.
 
-## Technologies utilisées
+## Technologies used
 1) Docker
 3) Mongo DB
 4) GraphQL
 5) D3.js
 
-## Commandes pour éxécuter le projet
+## Commands to run the project
 - cd graphql
-- rm -fr node_modules/
+- rm -en node_modules/
 - docker build -t graphql .
-- cd ..
+- cd .
 - docker-compose -f stack.yml up -d
 
-## Accéder à l'application
+## Access the application
 localhost:8080
 
-## Accéder à Mongo Express
+## Access Mongo Express
 localhost:8081
+
+##Results
+
+##Conclusion
+In short, this project allowed us to approach in depth the different notions learned in class and to put them into practice in an application project. It also allowed us to understand how Docker works and how applications can be deployed much more easily while avoiding a lot of conflicts related to compatibility problems at the system level.
+
+##Thanks :)
