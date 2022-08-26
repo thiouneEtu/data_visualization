@@ -21,7 +21,8 @@ localhost:8080
 localhost:8081
 
 ## Results
-![](https://github.com/thiouneEtu/data_visualization/blob/main/Res1.PNG
+![](https://github.com/thiouneEtu/data_visualization/blob/main/Res1.PNG | width=100)
+
 
 ![](https://github.com/thiouneEtu/data_visualization/blob/main/Res2.PNG)
 
@@ -30,4 +31,4 @@ localhost:8081
 ## Conclusion
 In short, this project allowed us to approach in depth the different notions learned in class and to put them into practice in an application project. It also allowed us to understand how Docker works and how applications can be deployed much more easily while avoiding a lot of conflicts related to compatibility problems at the system level.
 
-##Thanks :)
+## Thanks :)
